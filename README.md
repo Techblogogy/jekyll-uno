@@ -1,5 +1,7 @@
 # jekyll-uno
 
+### THIS IS MY MODIFICATION OF THIS THEME FOR PERSONAL WEBSITE/LANDING PAGE
+
 Jekyll-Uno - a minimal, responsive theme for Jekyll based on the [Uno](https://github.com/daleanthony/Uno) theme for Ghost.
 
 > :warning:
