@@ -1,5 +1,5 @@
 ---
-title: A tiny bit about me
+<!-- title: A tiny bit about me -->
 layout: page
 ---
 
@@ -23,6 +23,7 @@ Bachelor's degree, Computer Science
 * Designed application authentication/security flow and data encryption; PHP
 * Implemented AJAX communication between server and client; PHP and JS
 * User interface design; HTML/CSS, Twitter bootstrap
+* Created CKEditor plugin for mathematical input; JS, HTML5, CSS, LaTeX
 
 **Ludumdare** Participated in 48-hour game development hackathon (game jam) 7 times in a row. Helped fix competitions site bugs on their Github repository
 
@@ -38,11 +39,16 @@ Bachelor's degree, Computer Science
 ### Technical Skills
 
 
-
 ### Work Experience
 **Kyiv Tutors Association, Kyiv, Ukraine**  
 *November 2015 - Present*  
 Web developer   
 
+* Designed and created Wordpress template for the website; PHP
+* Created Wordpress plugins for Tutor management; PHP, MySQL
+* Designed logo; Adobe Illustrator, Photoshop
+
 ### Additional Skills
-**Languages:** English (Full professional proficiency), Ukrainian 
+**Languages:** English (Full professional proficiency), Ukrainian (Native or bilingual proficiency), Russian (Native or bilingual proficiency)  
+**Achievements:** 1st place on Kyiv schools ACM olympiad (2015, 2013)  
+**Personal Interests:**
