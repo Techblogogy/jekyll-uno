@@ -13,7 +13,7 @@ Bachelor's degree, Computer Science
 **Magic Mirror** Smart mirror, that helps you get dressed in the morning and displays metric data (i.e. time, weather, plans)   
 
 * Clothes dress code recognition using deep learning; used TensorFlow
-* Designed application back-end to run on Raspberry PI; Python Flask, SQLite, Electron
+* Designed application back-end to run on Raspberry PI; Python, Flask Framework, SQLite, Electron
 * Designed hardware infrastructure;
 
 
@@ -32,9 +32,7 @@ Bachelor's degree, Computer Science
 * Screen magnification utility that scales game capture using nearest neighbor scaling, for better image quality in older games; Java
 * Created a fast motion blur script for video encoding; Avisynth  
 
-**Series of educational games** Created HTML5 games for Ukrainians small academy of science to help students understand physic better
-
-<!-- **Happy Birthday** Small Wordpress widget for school website that displays students birthdays for the week -->
+**Series of educational games** Created HTML5 games for Ukrainians small academy of science to help students learn physics  
 
 ### Technical Skills
 
